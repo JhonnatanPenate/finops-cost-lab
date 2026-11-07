@@ -13,3 +13,7 @@ events/.terraform.lock.hcl
 *.tfstate
 *.tfstate.*
 api-gateway/*.zip
+
+# Lab 18
+*.zip
+response.json
